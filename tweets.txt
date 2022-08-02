@@ -1,0 +1,118 @@
+1.
+javier ramirez
+@supercoco9
+·
+Nov 26, 2020
+But generating synthetic streaming data for testing might be challenging, which is why I liked to see you can use now Python and the Selenium Framework with Amazon CloudWatch Synthetics :)
+aws.amazon.com
+Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework
+1
+**************************
+2.
+Selenium Conference
+@seleniumconf
+·
+Jul 30
+Why does building a robust automation framework matter? Talk by 
+@_cameron_b
+ starts in 15 mins at Zoom #SeConf 
+@SeleniumConf
+ https://confengine.com/conferences/selenium-conf-2022/proposal/16803…
+**************************
+3.
+Selenium Conference
+@seleniumconf
+·
+Jul 29
+TestZeus: Open source UI automation framework built specifically for Salesforce with Auto-locators Demonstration by Robin Gupta starts in 15 mins at Zoom #SeConf 
+@SeleniumConf
+ https://confengine.com/conferences/selenium-conf-2022/proposal/16526…
+**************************
+4.
+Samer A.
+@cleversamerr
+·
+Apr 13
+Replying to 
+@EbrahimAfridi3
+Use Selenium framework!
+And btw, 
+@freeCodeCamp
+ has a great course that teaches Selenium framework with Python. If you don't know Python, you can also use it with Java, C#, PHP, and also Ruby.
+
+Just go to google and search for Selenium 
+1
+2
+**************************
+5.
+mildmojo
+@mildmojo
+·
+Jul 14, 2020
+Replying to 
+@mildmojo
+ and 
+@remembersonly
+Actually maybe that's a little different; are you using the Selenium grid server? I'm running a Selenium framework in one container and forwarding X to a second container for rendering.
+**************************
+6.
+Kili
+@kilijanek
+·
+Jun 2
+Replying to 
+@UK_Daniel_Card
+Looking quickly at src I think it might be www ui to set config for Selenium framework 
+1
+1
+**************************
+7.
+Сафа
+@Safa_Emhemed
+·
+Feb 11
+Replying to 
+@ek_bun_maska
+You can start learning Katalon or Selenium framework! Both best tools for web automation testing! You can also try katalon recorder and selenium recorder extensions on Google Chrome!
+1
+**************************
+8.
+🆃🆆🅴🅴🆃 @ 🅹🅽
+@tweetatjon
+·
+Apr 3, 2021
+Replying to 
+@ayanupadhaya96
+ and 
+@_100DaysOfCode
+technically it’s the selenium framework and not so much python, selenium is the same in most languages, but cool little utility.
+1
+1
+**************************
+9.
+El Tweet Rebelde
+@eltweetrebelde
+·
+8h
+No sabia lo genial que es automatizar en Robot Framework hasta que ayer me eche un clavado y la vd no sé por qué no lo hice antes #Python #RobotFramework #SDET #selenium
+2
+**************************
+10.
+Qtree Technologies
+@Qtreetech
+·
+Jul 25
+#Qtreetechnologies #java #python #angular #react #digitalmarketing #softwaretesting #framework #frontend #manualtesting #selenium #automationtesting #software #softwaretraining #onlinetraining #trainingcourse #fullstack #backend #sql #dotnet #coding #training #classroom
+1
+**************************
+11.
+月神りっと
+@tukigamilito
+·
+Jul 24
+Replying to 
+@wachi_yukkuri
+Selenium使う時によく見るな…
+.NET Framework入れて無いと同じエラーが出る。
+1
+**************************
